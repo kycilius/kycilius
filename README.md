@@ -14,6 +14,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kycilius&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+## 👨🏻‍💻 Badges
+[![An image of @kycilius's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kycilius)](https://holopin.io/@kycilius)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
